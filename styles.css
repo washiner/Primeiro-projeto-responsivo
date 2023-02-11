@@ -29,12 +29,12 @@
 img {
     position: relative;
     top: 10%;
-    right: 130px;
+    right: 129px;
 }
 
 h1 {
     font-weight: 400;
-    font-size: 70px;
+    font-size: 69px;
     line-height: 80px;
     color: #5d5d7d;
     width: 368px;
@@ -46,7 +46,7 @@ p {
     color: #5D5D7D;
     opacity: 0.6;
     margin: 15px 0;
-    /* margin se tiver dois atributo ele divide em vertical primeiro depois horizontal*/
+    /* margin se tiver dois atributo ele divide em vertical primeiro depois horizontal trocado com sucesso*/
     width: 540px;
 }
 
